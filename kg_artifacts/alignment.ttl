@@ -1,0 +1,233 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skg-o: <http://space-kg.org/ontology/> .
+@prefix skg-r: <http://space-kg.org/resource/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wd-prop: <http://www.wikidata.org/prop/direct/> .
+
+skg-o:discoveredBy a owl:ObjectProperty ;
+    rdfs:comment "Aligned to wd:P61. P61 = 'discoverer or inventor' — direct equivalent" ;
+    owl:equivalentProperty wd-prop:P61 .
+
+skg-o:hasAstronaut a owl:ObjectProperty ;
+    rdfs:comment "Aligned to wd:P1029. P1029 = 'crew member' — direct equivalent" ;
+    owl:equivalentProperty wd-prop:P1029 .
+
+skg-o:isCommanderOf a owl:ObjectProperty ;
+    rdfs:comment "Aligned to wd:P1344. P1344 = 'participant in' — isCommanderOf is a specialisation" ;
+    rdfs:subPropertyOf wd-prop:P1344 .
+
+skg-o:landedOn a owl:ObjectProperty ;
+    rdfs:comment "Aligned to wd:P65. P65 = 'site of astronomical discovery' is closest; approximate" ;
+    owl:equivalentProperty wd-prop:P65 .
+
+skg-o:launchedBy a owl:ObjectProperty ;
+    rdfs:comment "Aligned to wd:P137. P137 = 'operator' — equivalent for space missions" ;
+    owl:equivalentProperty wd-prop:P137 .
+
+skg-o:locatedIn a owl:ObjectProperty ;
+    rdfs:comment "Aligned to wd:P131. P131 = 'located in the administrative territorial entity' is broader" ;
+    rdfs:subPropertyOf wd-prop:P131 .
+
+skg-o:partOf a owl:ObjectProperty ;
+    rdfs:comment "Aligned to wd:P361. P361 = 'part of' — exact equivalent" ;
+    owl:equivalentProperty wd-prop:P361 .
+
+skg-r:ABC_News owl:sameAs wd:Q4650197 .
+
+skg-r:Alan_Shepard owl:sameAs wd:Q312715 .
+
+skg-r:Amos owl:sameAs wd:Q18216060 .
+
+skg-r:Apollo_11 owl:sameAs wd:Q43653 .
+
+skg-r:Artemis owl:sameAs wd:Q65078744 .
+
+skg-r:Artemis_Program owl:sameAs wd:Q65078744 .
+
+skg-r:Artemis_program owl:sameAs wd:Q65078744 .
+
+skg-r:BBC_News owl:sameAs wd:Q1160945 .
+
+skg-r:Bergin owl:sameAs wd:Q21501867 .
+
+skg-r:Buzz_Aldrin owl:sameAs wd:Q2252 .
+
+skg-r:CNN owl:sameAs wd:Q48340 .
+
+skg-r:CSA owl:sameAs wd:Q80817 .
+
+skg-r:Canadian_Space_Agency owl:sameAs wd:Q80817 .
+
+skg-r:Cape_Canaveral owl:sameAs wd:Q208512 .
+
+skg-r:Chris_Hadfield owl:sameAs wd:Q316272 .
+
+skg-r:Congress owl:sameAs wd:Q10225 .
+
+skg-r:Crew_Dragon owl:sameAs wd:Q15824616 .
+
+skg-r:DC owl:sameAs wd:Q61 .
+
+skg-r:David owl:sameAs wd:Q18057751 .
+
+skg-r:Dragon owl:sameAs wd:Q15824616 .
+
+skg-r:ESA owl:sameAs wd:Q42262 .
+
+skg-r:Earth owl:sameAs wd:Q2 .
+
+skg-r:Elizabeth owl:sameAs wd:Q385468 .
+
+skg-r:Elon_Musk owl:sameAs wd:Q317521 .
+
+skg-r:Eric owl:sameAs wd:Q12788459 .
+
+skg-r:Europe owl:sameAs wd:Q46 .
+
+skg-r:European_Space_Agency owl:sameAs wd:Q42262 .
+
+skg-r:Falcon_9 owl:sameAs wd:Q657803 .
+
+skg-r:Foust owl:sameAs wd:Q5864674 .
+
+skg-r:Grumman owl:sameAs wd:Q37490492 .
+
+skg-r:Guardian owl:sameAs wd:Q11148 .
+
+skg-r:Harwood owl:sameAs wd:Q16276437 .
+
+skg-r:Howell owl:sameAs wd:Q16870902 .
+
+skg-r:Hubble owl:sameAs wd:Q2513 .
+
+skg-r:Hubble_Space_Telescope owl:sameAs wd:Q2513 .
+
+skg-r:ISS owl:sameAs wd:Q221291 .
+
+skg-r:ISSN owl:sameAs wd:Q131276 .
+
+skg-r:International_Space_Station owl:sameAs wd:Q221291 .
+
+skg-r:JAMES_WEBB owl:sameAs wd:Q704332 .
+
+skg-r:JAXA owl:sameAs wd:Q170964 .
+
+skg-r:JPL owl:sameAs wd:Q193510 .
+
+skg-r:JWST owl:sameAs wd:Q184873 .
+
+skg-r:James_Webb owl:sameAs wd:Q704332 .
+
+skg-r:James_Webb_Space_Telescope owl:sameAs wd:Q184873 .
+
+skg-r:Jason owl:sameAs wd:Q2630093 .
+
+skg-r:Jaxa owl:sameAs wd:Q170964 .
+
+skg-r:Jeff owl:sameAs wd:Q18609696 .
+
+skg-r:Jet_Propulsion_Laboratory owl:sameAs wd:Q193510 .
+
+skg-r:Jim owl:sameAs wd:Q15868042 .
+
+skg-r:John_Glenn owl:sameAs wd:Q47361 .
+
+skg-r:Johnson_Space_Center owl:sameAs wd:Q1127062 .
+
+skg-r:Jonathan owl:sameAs wd:Q1158394 .
+
+skg-r:Jupiter owl:sameAs wd:Q319 .
+
+skg-r:Kennedy_Space_Center owl:sameAs wd:Q134465 .
+
+skg-r:Mars owl:sameAs wd:Q111 .
+
+skg-r:Mercury owl:sameAs wd:Q308 .
+
+skg-r:Michael owl:sameAs wd:Q4927524 .
+
+skg-r:Michael_Collins owl:sameAs wd:Q313485 .
+
+skg-r:Moon owl:sameAs wd:Q405 .
+
+skg-r:NASA owl:sameAs wd:Q23548 .
+
+skg-r:NBC_News owl:sameAs wd:Q2877626 .
+
+skg-r:Nasa owl:sameAs wd:Q23548 .
+
+skg-r:National_Aeronautics_and_Space_Administration owl:sameAs wd:Q23548 .
+
+skg-r:Neil_Armstrong owl:sameAs wd:Q1615 .
+
+skg-r:Nelson owl:sameAs wd:Q2782528 .
+
+skg-r:New_York owl:sameAs wd:Q130758102 .
+
+skg-r:PDF owl:sameAs wd:Q42332 .
+
+skg-r:Pluto owl:sameAs wd:Q339 .
+
+skg-r:Reuters owl:sameAs wd:Q130879 .
+
+skg-r:Robert owl:sameAs wd:Q4927937 .
+
+skg-r:Roscosmos owl:sameAs wd:Q208419 .
+
+skg-r:Russia owl:sameAs wd:Q159 .
+
+skg-r:Saturn owl:sameAs wd:Q193 .
+
+skg-r:Smith owl:sameAs wd:Q1158446 .
+
+skg-r:SpaceNews owl:sameAs wd:Q18392262 .
+
+skg-r:SpaceX owl:sameAs wd:Q193701 .
+
+skg-r:Spacecom owl:sameAs wd:Q3112835 .
+
+skg-r:Sun owl:sameAs wd:Q525 .
+
+skg-r:Texas owl:sameAs wd:Q1439 .
+
+skg-r:The_New_York_Times owl:sameAs wd:Q9684 .
+
+skg-r:The_Washington_Post owl:sameAs wd:Q166032 .
+
+skg-r:UK owl:sameAs wd:Q145 .
+
+skg-r:US owl:sameAs wd:Q30 .
+
+skg-r:United_States owl:sameAs wd:Q30 .
+
+skg-r:Venus owl:sameAs wd:Q313 .
+
+skg-r:Verge owl:sameAs wd:Q37062653 .
+
+skg-r:Washington owl:sameAs wd:Q1223 .
+
+skg-r:Washington_Post owl:sameAs wd:Q166032 .
+
+skg-r:William owl:sameAs wd:Q12344159 .
+
+skg-r:Williams owl:sameAs wd:Q1688722 .
+
+skg-r:Yuri_Gagarin owl:sameAs wd:Q7327 .
+
+skg-r:al owl:sameAs wd:Q51162391 .
+
+skg-r:decades owl:sameAs wd:Q73433037 .
+
+skg-r:earth owl:sameAs wd:Q2 .
+
+skg-r:pp owl:sameAs wd:Q1069725 .
+
+skg-r:the_European_Space_Agency owl:sameAs wd:Q99950243 .
+
+skg-r:the_United_States owl:sameAs wd:Q30 .
+
+skg-r:the_Wayback_Machine owl:sameAs wd:Q110087414 .
+
+skg-r:today owl:sameAs wd:Q3530234 .
+

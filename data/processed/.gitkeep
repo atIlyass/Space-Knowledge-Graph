@@ -1,0 +1,8 @@
+# data/processed/
+# This directory holds all real pipeline outputs.
+# Files here are gitignored (large, regenerated).
+#
+# Regenerate with:
+#   python -m src.crawl.crawler          → crawler_output.jsonl
+#   python -m src.ie.run_ie              → extracted_knowledge.csv
+#   python -m src.kge.prepare_splits     → train.txt, valid.txt, test.txt

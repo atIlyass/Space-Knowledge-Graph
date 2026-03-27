@@ -1,0 +1,16 @@
+subject,subject_label,predicate,object,object_label,source_url,sentence,extraction_type
+Neil Armstrong,PERSON,land_on,Moon,LOC,https://en.wikipedia.org/wiki/Apollo_11,"Commander Neil Armstrong and Lunar Module Pilot Buzz Aldrin landed the Apollo Lunar Module Eagle on July 20, 1969.",relation
+Buzz Aldrin,PERSON,land_on,Moon,LOC,https://en.wikipedia.org/wiki/Apollo_11,"Commander Neil Armstrong and Lunar Module Pilot Buzz Aldrin landed the Apollo Lunar Module Eagle on July 20, 1969.",relation
+Michael Collins,PERSON,fly_in,Command Module Columbia,PRODUCT,https://en.wikipedia.org/wiki/Apollo_11,Command Module Pilot Michael Collins flew the Command Module Columbia alone in lunar orbit.,relation
+Apollo 11,EVENT,launch_by,NASA,ORG,https://en.wikipedia.org/wiki/Apollo_11,"The mission was launched by NASA from Kennedy Space Center in Florida on July 16, 1969.",relation
+SpaceX,ORG,found_by,Elon Musk,PERSON,https://en.wikipedia.org/wiki/SpaceX,"The company was founded in 2002 by Elon Musk with the goal of reducing space transportation costs.",relation
+Elon Musk,PERSON,found_in,California,GPE,https://en.wikipedia.org/wiki/SpaceX,SpaceX is headquartered in Hawthorne California.,relation
+NASA,ORG,lead_in,Apollo Moon landing,EVENT,https://en.wikipedia.org/wiki/NASA,"NASA has since led most American space exploration efforts, including Project Mercury, Project Gemini, the Apollo Moon landing missions.",relation
+Neil Armstrong,PERSON,mentionedIn,Apollo 11,Article,https://en.wikipedia.org/wiki/Apollo_11,Commander Neil Armstrong and Lunar Module Pilot Buzz Aldrin landed the Apollo Lunar Module Eagle.,ner
+Buzz Aldrin,PERSON,mentionedIn,Apollo 11,Article,https://en.wikipedia.org/wiki/Apollo_11,Commander Neil Armstrong and Lunar Module Pilot Buzz Aldrin landed the Apollo Lunar Module Eagle.,ner
+NASA,ORG,mentionedIn,Apollo 11,Article,https://en.wikipedia.org/wiki/Apollo_11,"The mission was launched by NASA from Kennedy Space Center in Florida on July 16, 1969.",ner
+Kennedy Space Center,FAC,mentionedIn,Apollo 11,Article,https://en.wikipedia.org/wiki/Apollo_11,"The mission was launched by NASA from Kennedy Space Center in Florida on July 16, 1969.",ner
+Elon Musk,PERSON,mentionedIn,SpaceX,Article,https://en.wikipedia.org/wiki/SpaceX,"The company was founded in 2002 by Elon Musk with the goal of reducing space transportation costs.",ner
+Mars,GPE,mentionedIn,SpaceX,Article,https://en.wikipedia.org/wiki/SpaceX,"The company was founded in 2002 by Elon Musk with the goal of reducing space transportation costs to enable the colonization of Mars.",ner
+SpaceX,ORG,mentionedIn,SpaceX,Article,https://en.wikipedia.org/wiki/SpaceX,"Space Exploration Technologies Corp., commonly known as SpaceX, is an American spacecraft manufacturer.",ner
+International Space Station,FAC,mentionedIn,SpaceX,Article,https://en.wikipedia.org/wiki/SpaceX,NASA has awarded SpaceX contracts to provide crew transportation to the ISS as part of the Commercial Crew Development program.,ner

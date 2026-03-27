@@ -1,0 +1,18 @@
+{
+  "num_triples": 47393,
+  "num_entities": 10894,
+  "num_relations": 278,
+  "top_types": {
+    "http://space-kg.org/ontology/TimePoint": 4411,
+    "http://space-kg.org/ontology/SpaceAgency": 2673,
+    "http://space-kg.org/ontology/Person": 2341,
+    "http://space-kg.org/ontology/CelestialBody": 705,
+    "http://space-kg.org/ontology/Spacecraft": 327,
+    "http://space-kg.org/ontology/SpaceMission": 30,
+    "http://space-kg.org/ontology/Document": 8,
+    "http://www.w3.org/2002/07/owl#Class": 8,
+    "http://www.w3.org/2002/07/owl#ObjectProperty": 7,
+    "http://www.w3.org/2002/07/owl#Ontology": 1
+  },
+  "source_file": "kg_artifacts/expanded.nt"
+}

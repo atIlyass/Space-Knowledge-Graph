@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project outputs
+kg_artifacts/kge/
+data/processed/crawler_output.jsonl
+data/processed/extracted_knowledge.csv
+data/processed/train.txt
+data/processed/valid.txt
+data/processed/test.txt
+kg_artifacts/expanded.nt
+
+# Keep artifacts under version control (small ones)
+!kg_artifacts/ontology.ttl
+!kg_artifacts/initial_graph.ttl
+!kg_artifacts/alignment.ttl
+!kg_artifacts/kb_stats.json
+
+# Misc
+*.log
+*.tmp
+*.bak
+reports/figures/*.png

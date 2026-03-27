@@ -1,0 +1,100 @@
+local_uri,label,wd_id,wd_label,wd_description,confidence,alignment
+http://space-kg.org/resource/Alan_Shepard,Alan Shepard,Q312715,Alan Shepard,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Artemis_Program,Artemis Program,Q65078744,Artemis Program,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Buzz_Aldrin,Buzz Aldrin,Q2252,Buzz Aldrin,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/CSA,CSA,Q80817,CSA,(seed alignment),0.9,sameAs
+http://space-kg.org/resource/Canadian_Space_Agency,Canadian Space Agency,Q80817,Canadian Space Agency,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Cape_Canaveral,Cape Canaveral,Q208512,Cape Canaveral,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Chris_Hadfield,Chris Hadfield,Q316272,Chris Hadfield,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Crew_Dragon,Crew Dragon,Q15824616,Crew Dragon,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Dragon,Dragon,Q15824616,Dragon,(seed alignment),0.85,sameAs
+http://space-kg.org/resource/ESA,ESA,Q42262,ESA,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Elon_Musk,Elon Musk,Q317521,Elon Musk,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Falcon_9,Falcon 9,Q657803,Falcon 9,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/JAMES_WEBB,JAMES WEBB,Q704332,JAMES WEBB,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/JAXA,JAXA,Q170964,JAXA,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/JPL,JPL,Q193510,JPL,(seed alignment),0.9,sameAs
+http://space-kg.org/resource/James_Webb,James Webb,Q704332,James Webb,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Jaxa,Jaxa,Q170964,Jaxa,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/John_Glenn,John Glenn,Q47361,John Glenn,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Kennedy_Space_Center,Kennedy Space Center,Q134465,Kennedy Space Center,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Mercury,Mercury,Q308,Mercury,(seed alignment),0.85,sameAs
+http://space-kg.org/resource/Michael_Collins,Michael Collins,Q313485,Michael Collins,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/National_Aeronautics_and_Space_Administration,National Aeronautics and Space Administration,Q23548,National Aeronautics and Space Administration,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Neil_Armstrong,Neil Armstrong,Q1615,Neil Armstrong,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Pluto,Pluto,Q339,Pluto,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Roscosmos,Roscosmos,Q208419,Roscosmos,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Saturn,Saturn,Q193,Saturn,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Sun,Sun,Q525,Sun,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Venus,Venus,Q313,Venus,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Yuri_Gagarin,Yuri Gagarin,Q7327,Yuri Gagarin,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/earth,earth,Q2,earth,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Earth,Earth,Q2,Earth,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/European_Space_Agency,European Space Agency,Q42262,European Space Agency,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/JWST,JWST,Q184873,JWST,(seed alignment),0.9,sameAs
+http://space-kg.org/resource/Jet_Propulsion_Laboratory,Jet Propulsion Laboratory,Q193510,Jet Propulsion Laboratory,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Johnson_Space_Center,Johnson Space Center,Q1127062,Johnson Space Center,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Jupiter,Jupiter,Q319,Jupiter,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Nasa,Nasa,Q23548,Nasa,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Artemis,Artemis,Q65078744,Artemis,(seed alignment),0.9,sameAs
+http://space-kg.org/resource/Hubble,Hubble,Q2513,Hubble,(seed alignment),0.9,sameAs
+http://space-kg.org/resource/ISS,ISS,Q221291,ISS,(seed alignment),0.9,sameAs
+http://space-kg.org/resource/Moon,Moon,Q405,Moon,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Artemis_program,Artemis program,Q65078744,Artemis program,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Apollo_11,Apollo 11,Q43653,Apollo 11,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Mars,Mars,Q111,Mars,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/James_Webb_Space_Telescope,James Webb Space Telescope,Q184873,James Webb Space Telescope,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/SpaceX,SpaceX,Q193701,SpaceX,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Hubble_Space_Telescope,Hubble Space Telescope,Q2513,Hubble Space Telescope,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/NASA,NASA,Q23548,NASA,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/International_Space_Station,International Space Station,Q221291,International Space Station,(seed alignment),1.0,sameAs
+http://space-kg.org/resource/Washington_Post,Washington Post,Q166032,The Washington Post,"daily broadsheet newspaper in Washington, D.C.",0.95,sameAs
+http://space-kg.org/resource/US,U.S.,Q30,United States,country located primarily in North America,0.95,sameAs
+http://space-kg.org/resource/the_United_States,the United States',Q30,United States,country located primarily in North America,0.95,sameAs
+http://space-kg.org/resource/Reuters,Reuters,Q130879,Reuters,international news agency,1.0,sameAs
+http://space-kg.org/resource/Spacecom,Space.com,Q3112835,space.com,space and astronomy news website,1.0,sameAs
+http://space-kg.org/resource/The_New_York_Times,The New York Times,Q9684,The New York Times,American daily newspaper (founded 1851),1.0,sameAs
+http://space-kg.org/resource/al,al..,Q51162391,Al... with Kelly,episode of Married... with Children (S5 E2),0.95,sameAs
+http://space-kg.org/resource/the_Wayback_Machine,the Wayback Machine,Q110087414,The Ben Shapiro Show - The Wayback Machine | Ep. 734,episode of the Ben Shapiro Show,0.95,sameAs
+http://space-kg.org/resource/Congress,Congress,Q10225,Indian National Congress,centrist-liberal political party in India,0.95,sameAs
+http://space-kg.org/resource/PDF,PDF,Q42332,PDF,family of file formats used to present documents,1.0,sameAs
+http://space-kg.org/resource/Russia,Russia,Q159,Russia,country in Eastern Europe and Northern Asia,1.0,sameAs
+http://space-kg.org/resource/BBC_News,BBC News,Q1160945,BBC News,news division of the publicly funded British Broadcasting Corporation,1.0,sameAs
+http://space-kg.org/resource/CNN,CNN,Q48340,CNN,American news channel,1.0,sameAs
+http://space-kg.org/resource/David,David,Q18057751,David,male given name,1.0,sameAs
+http://space-kg.org/resource/Eric,Eric,Q12788459,Eric,male given name,1.0,sameAs
+http://space-kg.org/resource/Foust,Foust,Q5864674,Frances Faust Lombard,American botanist and mycologist (1915–1995),0.95,sameAs
+http://space-kg.org/resource/Guardian,Guardian,Q11148,The Guardian,British national daily newspaper,0.95,sameAs
+http://space-kg.org/resource/ISSN,ISSN,Q131276,International Standard Serial Number,unique eight-digit number used to identify a print or electronic periodical publication,0.95,sameAs
+http://space-kg.org/resource/Jeff,Jeff,Q18609696,Jeff,male given name,1.0,sameAs
+http://space-kg.org/resource/Jim,Jim,Q15868042,Jim,male given name,1.0,sameAs
+http://space-kg.org/resource/Michael,Michael,Q4927524,Michael,male given name,1.0,sameAs
+http://space-kg.org/resource/NBC_News,NBC News,Q2877626,NBC News,news division of NBC,1.0,sameAs
+http://space-kg.org/resource/The_Washington_Post,The Washington Post,Q166032,The Washington Post,"daily broadsheet newspaper in Washington, D.C.",1.0,sameAs
+http://space-kg.org/resource/United_States,United States,Q30,United States,country located primarily in North America,1.0,sameAs
+http://space-kg.org/resource/William,William,Q12344159,William,male given name,1.0,sameAs
+http://space-kg.org/resource/Smith,Smith,Q1158446,Smith,family name,1.0,sameAs
+http://space-kg.org/resource/decades,decades,Q73433037,decades old,unit for age,0.95,sameAs
+http://space-kg.org/resource/DC,D.C.,Q61,"Washington, D.C.",capital city of the United States of America,0.95,sameAs
+http://space-kg.org/resource/New_York,New York:,Q130758102,New York: Capital of Photography,"exhibition at the Jewish Museum, Amsterdam, The Netherlands (2003)",0.95,sameAs
+http://space-kg.org/resource/Amos,Amos,Q18216060,Amos,male given name,1.0,sameAs
+http://space-kg.org/resource/Elizabeth,Elizabeth,Q385468,Elizabeth,female given name,1.0,sameAs
+http://space-kg.org/resource/Europe,Europe,Q46,Europe,terrestrial continent located in north-western Eurasia,1.0,sameAs
+http://space-kg.org/resource/Howell,Howell,Q16870902,Howell,family name,1.0,sameAs
+http://space-kg.org/resource/Jason,Jason,Q2630093,Jason,male given name,1.0,sameAs
+http://space-kg.org/resource/Jonathan,Jonathan,Q1158394,Jonathan,male given name,1.0,sameAs
+http://space-kg.org/resource/Nelson,Nelson,Q2782528,Nelson,family name,1.0,sameAs
+http://space-kg.org/resource/Robert,Robert,Q4927937,Robert,male given name,1.0,sameAs
+http://space-kg.org/resource/SpaceNews,SpaceNews,Q18392262,SpaceNews,American magazine and website,1.0,sameAs
+http://space-kg.org/resource/Verge,Verge,Q37062653,Verge,family name,1.0,sameAs
+http://space-kg.org/resource/Washington,Washington,Q1223,Washington,state of the United States of America,1.0,sameAs
+http://space-kg.org/resource/the_European_Space_Agency,the European Space Agency,Q99950243,The European Space Agency (Immunities and Privileges) Order 1978,UK Statutory Instrument 1978 No. 1105,0.95,sameAs
+http://space-kg.org/resource/today,today,Q3530234,Today,album by Galaxie 500,1.0,sameAs
+http://space-kg.org/resource/Texas,Texas,Q1439,Texas,state of the United States of America,1.0,sameAs
+http://space-kg.org/resource/ABC_News,ABC News',Q4650197,ABC News,news service by the Australian Broadcasting Corporation,0.95,sameAs
+http://space-kg.org/resource/Bergin,Bergin,Q21501867,Bergin,family name,1.0,sameAs
+http://space-kg.org/resource/Grumman,Grumman,Q37490492,Grumman,family name,1.0,sameAs
+http://space-kg.org/resource/Harwood,Harwood,Q16276437,Harwood,family name,1.0,sameAs
+http://space-kg.org/resource/UK,U.K.,Q145,United Kingdom,island country in north-west Europe,0.95,sameAs
+http://space-kg.org/resource/Williams,Williams,Q1688722,Williams,family name,1.0,sameAs
+http://space-kg.org/resource/pp,pp.,Q1069725,page,unit of extent that consists of a single side of a leaf,0.95,sameAs
