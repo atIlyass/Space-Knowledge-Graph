@@ -212,10 +212,8 @@ python -m src.rag.evaluate_rag
 
 ## Screenshots / Demo
 
-```
 Screenshots:
 ![Cli Screenshot 1](resources/image.png)
 
 ![Cli Screenshot 2](resources/image2.png)
-```
 ---
